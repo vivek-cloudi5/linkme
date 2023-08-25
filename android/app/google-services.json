@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687656376913",
+    "project_id": "linkme-45d79",
+    "storage_bucket": "linkme-45d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687656376913:android:c9adbf43a8dc7bc7cb7670",
+        "android_client_info": {
+          "package_name": "com.example.linkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687656376913-f2glkqjv8i8hui5re0ehse14o5egdr3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzaLu1RTXVI-0Wg3KIsEQ8x9JMBw-jzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687656376913-f2glkqjv8i8hui5re0ehse14o5egdr3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
